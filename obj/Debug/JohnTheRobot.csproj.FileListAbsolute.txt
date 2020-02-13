@@ -1,0 +1,6 @@
+D:\NetProjectExample\Axceligent Solutions\JohnTheRobot\JohnTheRobot\bin\Debug\JohnTheRobot.exe.config
+D:\NetProjectExample\Axceligent Solutions\JohnTheRobot\JohnTheRobot\obj\Debug\JohnTheRobot.csprojResolveAssemblyReference.cache
+D:\NetProjectExample\Axceligent Solutions\JohnTheRobot\JohnTheRobot\bin\Debug\JohnTheRobot.exe
+D:\NetProjectExample\Axceligent Solutions\JohnTheRobot\JohnTheRobot\bin\Debug\JohnTheRobot.pdb
+D:\NetProjectExample\Axceligent Solutions\JohnTheRobot\JohnTheRobot\obj\Debug\JohnTheRobot.exe
+D:\NetProjectExample\Axceligent Solutions\JohnTheRobot\JohnTheRobot\obj\Debug\JohnTheRobot.pdb
